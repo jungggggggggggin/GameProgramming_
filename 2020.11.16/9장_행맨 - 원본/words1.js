@@ -1,0 +1,3 @@
+var words = [
+	 "sheep","qat"
+	  ];
